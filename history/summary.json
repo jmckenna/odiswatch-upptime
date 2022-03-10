@@ -178,5 +178,41 @@
     "timeMonth": 343,
     "timeYear": 343,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "CIOOS Data Explorer Website",
+    "url": "https://hakaiinstitute.github.io/cde/",
+    "icon": "https://favicons.githubusercontent.com/hakaiinstitute.github.io",
+    "slug": "cioos-data-explorer-website",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "CIOOS Data Explorer API",
+    "url": "https://pac-dev2.cioos.org/ceda/api/",
+    "icon": "https://favicons.githubusercontent.com/pac-dev2.cioos.org",
+    "slug": "cioos-data-explorer-api",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
   }
 ]
