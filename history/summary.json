@@ -181,22 +181,22 @@
   },
   {
     "name": "CIOOS Pacific Dev CKAN",
-    "url": "https://catalogue.pac-dev.cioos.org",
-    "icon": "https://favicons.githubusercontent.com/catalogue.pac-dev.cioos.org",
+    "url": "https://catalogue.pac-dev1.cioos.org",
+    "icon": "https://favicons.githubusercontent.com/catalogue.pac-dev1.cioos.org",
     "slug": "cioos-pacific-dev-ckan",
     "status": "up",
-    "uptime": "62.90%",
-    "uptimeDay": "62.90%",
-    "uptimeWeek": "62.90%",
-    "uptimeMonth": "62.90%",
-    "uptimeYear": "62.90%",
+    "uptime": "8.56%",
+    "uptimeDay": "8.56%",
+    "uptimeWeek": "8.56%",
+    "uptimeMonth": "8.56%",
+    "uptimeYear": "8.56%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-10": 0
+      "2022-03-10": 5
     }
   },
   {
