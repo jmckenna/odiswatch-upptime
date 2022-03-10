@@ -65,6 +65,18 @@ sites:
     assignees: # Users to assign downtime issues (optional)
       - fostermh
 
+  - name: CIOOS Data Explorer Website
+    url: https://hakaiinstitute.github.io/cde/
+    maxResponseTime: 5000 # 5 seconds
+    assignees: # Users to assign downtime issues (optional)
+      - n-a-t-e
+
+  - name: CIOOS Data Explorer API
+    url: https://pac-dev2.cioos.org/ceda/api/
+    maxResponseTime: 5000 # 5 seconds
+    assignees: # Users to assign downtime issues (optional)
+      - n-a-t-e
+
 
 
 
