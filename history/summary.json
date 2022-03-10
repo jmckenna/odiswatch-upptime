@@ -180,6 +180,26 @@
     "dailyMinutesDown": {}
   },
   {
+    "name": "CIOOS Pacific Dev CKAN",
+    "url": "https://catalogue.pac-dev.cioos.org",
+    "icon": "https://favicons.githubusercontent.com/catalogue.pac-dev.cioos.org",
+    "slug": "cioos-pacific-dev-ckan",
+    "status": "up",
+    "uptime": "62.90%",
+    "uptimeDay": "62.90%",
+    "uptimeWeek": "62.90%",
+    "uptimeMonth": "62.90%",
+    "uptimeYear": "62.90%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-03-10": 0
+    }
+  },
+  {
     "name": "CIOOS Data Explorer Website",
     "url": "https://hakaiinstitute.github.io/cde/",
     "icon": "https://favicons.githubusercontent.com/hakaiinstitute.github.io",
