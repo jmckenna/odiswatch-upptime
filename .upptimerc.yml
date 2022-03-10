@@ -1,31 +1,47 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: cioos-siooc # Your GitHub organization or username, where this repository lives
+repo: cwatch-upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Cioos Pacific Wordpress
+    url: https://cioospacific.ca
+    maxResponseTime: 5000 # 5 seconds
+    assignees: # Users to assign downtime issues (optional)
+      - fostermh
+
+  - name: Cioos Pacific CKAN
+    url: https://catalogue.cioospacific.ca
+    maxResponseTime: 5000 # 5 seconds
+    assignees: # Users to assign downtime issues (optional)
+      - fostermh
+
+  - name: Cioos Pacific ERDDAP
+    url: https://data.cioospacific.ca/erddap/index.html
+    maxResponseTime: 5000 # 5 seconds
+    assignees: # Users to assign downtime issues (optional)
+      - fostermh
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  # cname: demo.upptime.js.org
+  baseUrl: /cwatch-upptime
+  logoUrl: https://raw.githubusercontent.com/cioos-siooc/ckanext-cioos_theme/master/ckanext/cioos_theme/public/base/images/logos/cioos-banner-en.png
+  name: CIOOS Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/cioos-siooc/cwatch-upptim). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  theme: ocean
+  metaTags:
+  - name: "color-scheme"
+    content: "dark light"
+  - name: "robots"
+    content: "noindex"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
