@@ -34,7 +34,6 @@ sites:
     assignees: # Users to assign downtime issues (optional)
       - fostermh
 
-
   - name: St. Lawrence Global Observatory Wordpress
     url: https://ogsl.ca/en/home-slgo/
     maxResponseTime: 5000 # 5 seconds
@@ -69,7 +68,7 @@ sites:
     url: https://catalogue.pac-dev1.cioos.org
     maxResponseTime: 5000 # 5 seconds
     headers:
-      - "Authorization: Bearer $CIOOS_PACIFIC_DEV_BASIC_AUTH"
+      - "Authorization: Basic $CIOOS_PACIFIC_DEV_BASIC_AUTH"
     assignees: # Users to assign downtime issues (optional)
       - fostermh
 
@@ -83,21 +82,9 @@ sites:
     url: https://pac-dev2.cioos.org/ceda/api/
     maxResponseTime: 5000 # 5 seconds
     headers:
-      - "Authorization: Bearer $CIOOS_PACIFIC_DEV_BASIC_AUTH"
+      - "Authorization: Basic $CIOOS_PACIFIC_DEV_BASIC_AUTH"
     assignees: # Users to assign downtime issues (optional)
       - n-a-t-e
-
-
-
-
-
-
-
-
-
-
-
-
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
