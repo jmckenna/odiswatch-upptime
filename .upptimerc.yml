@@ -64,6 +64,14 @@ sites:
     assignees: # Users to assign downtime issues (optional)
       - fostermh
 
+  - name: CIOOS Pacific Dev CKAN
+    url: https://catalogue.pac-dev1.cioos.org/
+    maxResponseTime: 5000 # 5 seconds
+    headers:
+      - "Authorization: Basic $CIOOS_PACIFIC_DEV_BASIC_AUTH2"
+    assignees: # Users to assign downtime issues (optional)
+      - fostermh
+
   - name: CIOOS Data Explorer Website
     url: https://hakaiinstitute.github.io/cde/
     maxResponseTime: 5000 # 5 seconds
