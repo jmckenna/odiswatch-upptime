@@ -69,6 +69,7 @@ sites:
     maxResponseTime: 5000 # 5 seconds
     headers:
       - "Authorization: Basic $CIOOS_PACIFIC_DEV_BASIC_AUTH2"
+      - "Content-Type: application/json"
     assignees: # Users to assign downtime issues (optional)
       - fostermh
 
