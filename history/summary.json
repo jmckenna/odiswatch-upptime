@@ -4,18 +4,20 @@
     "url": "https://cioos.ca/",
     "icon": "https://favicons.githubusercontent.com/cioos.ca",
     "slug": "cioos-national-wordpress",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1423,
-    "timeDay": 1335,
-    "timeWeek": 1423,
-    "timeMonth": 1423,
-    "timeYear": 1423,
-    "dailyMinutesDown": {}
+    "time": 1384,
+    "timeDay": 1085,
+    "timeWeek": 1384,
+    "timeMonth": 1384,
+    "timeYear": 1384,
+    "dailyMinutesDown": {
+      "2022-03-13": 0
+    }
   },
   {
     "name": "Cioos National CKAN",
