@@ -4,36 +4,40 @@
     "url": "https://cioos.ca/",
     "icon": "https://favicons.githubusercontent.com/cioos.ca",
     "slug": "cioos-national-wordpress",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1402,
-    "timeDay": 1242,
-    "timeWeek": 1402,
-    "timeMonth": 1402,
-    "timeYear": 1402,
-    "dailyMinutesDown": {}
+    "time": 1336,
+    "timeDay": 697,
+    "timeWeek": 1336,
+    "timeMonth": 1336,
+    "timeYear": 1336,
+    "dailyMinutesDown": {
+      "2022-03-15": 0
+    }
   },
   {
     "name": "Cioos National CKAN",
     "url": "https://catalogue.cioos.ca/",
     "icon": "https://favicons.githubusercontent.com/catalogue.cioos.ca",
     "slug": "cioos-national-ckan",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 333,
-    "timeDay": 256,
-    "timeWeek": 333,
-    "timeMonth": 333,
-    "timeYear": 333,
-    "dailyMinutesDown": {}
+    "time": 326,
+    "timeDay": 234,
+    "timeWeek": 326,
+    "timeMonth": 326,
+    "timeYear": 326,
+    "dailyMinutesDown": {
+      "2022-03-15": 0
+    }
   },
   {
     "name": "Cioos Atlantic Wordpress",
