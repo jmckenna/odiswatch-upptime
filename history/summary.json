@@ -64,19 +64,19 @@
     "url": "https://catalogue.cioosatlantic.ca/",
     "icon": "https://favicons.githubusercontent.com/catalogue.cioosatlantic.ca",
     "slug": "cioos-atlantic-ckan",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "98.28%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
     "time": 484,
-    "timeDay": 424,
-    "timeWeek": 413,
+    "timeDay": 446,
+    "timeWeek": 421,
     "timeMonth": 484,
     "timeYear": 484,
     "dailyMinutesDown": {
-      "2022-03-21": 0
+      "2022-03-21": 25
     }
   },
   {
