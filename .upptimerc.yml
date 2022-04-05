@@ -63,6 +63,7 @@ sites:
     maxResponseTime: 5000 # 5 seconds
     assignees: # Users to assign downtime issues (optional)
       - fostermh
+      - n-a-t-e
 
   - name: CIOOS Pacific Dev CKAN
     url: https://catalogue.pac-dev1.cioos.org/
