@@ -13,7 +13,7 @@
     "time": 1326,
     "timeDay": 1357,
     "timeWeek": 1351,
-    "timeMonth": 1292,
+    "timeMonth": 1286,
     "timeYear": 1326,
     "dailyMinutesDown": {
       "2022-03-17": 24,
@@ -47,9 +47,9 @@
     "url": "https://cioosatlantic.ca/",
     "icon": "https://favicons.githubusercontent.com/cioosatlantic.ca",
     "slug": "cioos-atlantic-wordpress",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -58,16 +58,18 @@
     "timeWeek": 435,
     "timeMonth": 337,
     "timeYear": 356,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-13": 0
+    }
   },
   {
     "name": "Cioos Atlantic CKAN",
     "url": "https://catalogue.cioosatlantic.ca/",
     "icon": "https://favicons.githubusercontent.com/catalogue.cioosatlantic.ca",
     "slug": "cioos-atlantic-ckan",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.95%",
@@ -77,6 +79,7 @@
     "timeMonth": 445,
     "timeYear": 463,
     "dailyMinutesDown": {
+      "2022-04-13": 0,
       "2022-03-21": 25
     }
   },
@@ -85,9 +88,9 @@
     "url": "https://cioosatlantic.ca/erddap/index.html",
     "icon": "https://favicons.githubusercontent.com/cioosatlantic.ca",
     "slug": "cioos-atlantic-erddap",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -96,7 +99,9 @@
     "timeWeek": 124,
     "timeMonth": 96,
     "timeYear": 104,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-13": 0
+    }
   },
   {
     "name": "St. Lawrence Global Observatory Wordpress",
@@ -125,11 +130,11 @@
     "icon": "https://favicons.githubusercontent.com/catalogue.ogsl.ca",
     "slug": "st-lawrence-global-observatory-ckan",
     "status": "up",
-    "uptime": "99.64%",
+    "uptime": "99.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.61%",
-    "uptimeYear": "99.64%",
+    "uptimeYear": "99.65%",
     "time": 386,
     "timeDay": 260,
     "timeWeek": 367,
@@ -183,11 +188,11 @@
     "icon": "https://favicons.githubusercontent.com/data.cioospacific.ca",
     "slug": "cioos-pacific-erddap",
     "status": "up",
-    "uptime": "99.48%",
+    "uptime": "99.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.43%",
-    "uptimeYear": "99.48%",
+    "uptimeYear": "99.49%",
     "time": 1196,
     "timeDay": 178,
     "timeWeek": 292,
