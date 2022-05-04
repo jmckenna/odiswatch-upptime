@@ -74,16 +74,14 @@ sites:
       - fostermh
 
   - name: CIOOS Data Explorer Website
-    url: https://hakaiinstitute.github.io/cde/
+    url: https://explore.cioos.ca
     maxResponseTime: 5000 # 5 seconds
     assignees: # Users to assign downtime issues (optional)
       - n-a-t-e
 
   - name: CIOOS Data Explorer API
-    url: https://pac-dev2.cioos.org/ceda/api/
+    url: https://explore.cioos.ca/api/
     maxResponseTime: 5000 # 5 seconds
-    headers:
-      - "Authorization: Basic $GH_CIOOS_PACIFIC_DEV_BASIC_AUTH"
     assignees: # Users to assign downtime issues (optional)
       - n-a-t-e
 
