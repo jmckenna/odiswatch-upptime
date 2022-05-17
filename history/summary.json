@@ -48,10 +48,10 @@
     "url": "https://cioosatlantic.ca/",
     "icon": "https://favicons.githubusercontent.com/cioosatlantic.ca",
     "slug": "cioos-atlantic-wordpress",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 372,
@@ -60,6 +60,7 @@
     "timeMonth": 399,
     "timeYear": 372,
     "dailyMinutesDown": {
+      "2022-05-17": 1,
       "2022-04-13": 36
     }
   },
@@ -68,9 +69,9 @@
     "url": "https://catalogue.cioosatlantic.ca/",
     "icon": "https://favicons.githubusercontent.com/catalogue.cioosatlantic.ca",
     "slug": "cioos-atlantic-ckan",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
@@ -80,6 +81,7 @@
     "timeMonth": 528,
     "timeYear": 717,
     "dailyMinutesDown": {
+      "2022-05-17": 0,
       "2022-04-13": 84,
       "2022-03-21": 25
     }
