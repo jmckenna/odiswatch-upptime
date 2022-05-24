@@ -48,9 +48,9 @@
     "url": "https://cioosatlantic.ca/",
     "icon": "https://favicons.githubusercontent.com/cioosatlantic.ca",
     "slug": "cioos-atlantic-wordpress",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -60,6 +60,7 @@
     "timeMonth": 384,
     "timeYear": 373,
     "dailyMinutesDown": {
+      "2022-05-24": 0,
       "2022-04-13": 36
     }
   },
@@ -68,9 +69,9 @@
     "url": "https://catalogue.cioosatlantic.ca/",
     "icon": "https://favicons.githubusercontent.com/catalogue.cioosatlantic.ca",
     "slug": "cioos-atlantic-ckan",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
@@ -80,6 +81,7 @@
     "timeMonth": 484,
     "timeYear": 695,
     "dailyMinutesDown": {
+      "2022-05-24": 0,
       "2022-04-13": 84,
       "2022-03-21": 25
     }
@@ -89,9 +91,9 @@
     "url": "https://cioosatlantic.ca/erddap/index.html",
     "icon": "https://favicons.githubusercontent.com/cioosatlantic.ca",
     "slug": "cioos-atlantic-erddap",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -101,6 +103,7 @@
     "timeMonth": 145,
     "timeYear": 120,
     "dailyMinutesDown": {
+      "2022-05-24": 0,
       "2022-04-13": 36
     }
   },
