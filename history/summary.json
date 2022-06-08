@@ -136,7 +136,7 @@
     "slug": "st-lawrence-global-observatory-ckan",
     "status": "up",
     "uptime": "98.70%",
-    "uptimeDay": "59.27%",
+    "uptimeDay": "59.73%",
     "uptimeWeek": "85.11%",
     "uptimeMonth": "96.57%",
     "uptimeYear": "98.70%",
@@ -263,19 +263,19 @@
     "url": "https://explore.cioos.ca/api/",
     "icon": "https://favicons.githubusercontent.com/explore.cioos.ca",
     "slug": "cioos-data-explorer-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 249,
-    "timeDay": 31,
-    "timeWeek": 51,
-    "timeMonth": 61,
-    "timeYear": 249,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 260,
+    "timeDay": 687,
+    "timeWeek": 213,
+    "timeMonth": 101,
+    "timeYear": 260,
     "dailyMinutesDown": {
-      "2022-06-08": 0
+      "2022-06-08": 7
     }
   }
 ]
