@@ -1,7 +1,7 @@
 url: https://catalogue.cioosatlantic.ca/
-status: up
-code: 200
-responseTime: 663
-lastUpdated: 2022-07-04T23:05:18.891Z
+status: down
+code: 503
+responseTime: 136
+lastUpdated: 2022-07-05T19:49:22.661Z
 startTime: Thu Mar 10 2022 21:49:53 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
