@@ -207,11 +207,11 @@
     "url": "https://data.cioospacific.ca/erddap/index.html",
     "icon": "https://favicons.githubusercontent.com/data.cioospacific.ca",
     "slug": "cioos-pacific-erddap",
-    "status": "up",
+    "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.52%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.51%",
     "uptimeYear": "99.47%",
     "time": 1156,
     "timeDay": 71,
@@ -219,6 +219,7 @@
     "timeMonth": 845,
     "timeYear": 1156,
     "dailyMinutesDown": {
+      "2022-07-13": 3,
       "2022-06-30": 161,
       "2022-06-29": 17,
       "2022-06-22": 31,
@@ -293,10 +294,10 @@
     "url": "https://explore.cioos.ca",
     "icon": "https://favicons.githubusercontent.com/explore.cioos.ca",
     "slug": "cioos-data-explorer-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 183,
@@ -305,6 +306,7 @@
     "timeMonth": 281,
     "timeYear": 183,
     "dailyMinutesDown": {
+      "2022-07-13": 2,
       "2022-06-30": 22
     }
   },
@@ -313,9 +315,9 @@
     "url": "https://explore.cioos.ca/api/",
     "icon": "https://favicons.githubusercontent.com/explore.cioos.ca",
     "slug": "cioos-data-explorer-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.24%",
     "uptimeYear": "99.81%",
@@ -325,6 +327,7 @@
     "timeMonth": 218,
     "timeYear": 242,
     "dailyMinutesDown": {
+      "2022-07-13": 0,
       "2022-06-30": 212,
       "2022-06-22": 122
     }
