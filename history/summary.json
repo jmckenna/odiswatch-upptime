@@ -260,9 +260,9 @@
     "url": "https://www.smartatlantic.ca/erddap/index.html",
     "icon": "https://favicons.githubusercontent.com/www.smartatlantic.ca",
     "slug": "smart-atlantic-erddap",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -271,7 +271,9 @@
     "timeWeek": 756,
     "timeMonth": 1331,
     "timeYear": 1057,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-16": 0
+    }
   },
   {
     "name": "CIOOS Pacific Dev CKAN",
