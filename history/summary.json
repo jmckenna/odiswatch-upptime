@@ -175,9 +175,9 @@
     "url": "https://cioospacific.ca",
     "icon": "https://icons.duckduckgo.com/ip3/cioospacific.ca.ico",
     "slug": "cioos-pacific-wordpress",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -186,7 +186,9 @@
     "timeWeek": 246,
     "timeMonth": 273,
     "timeYear": 278,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-11": 0
+    }
   },
   {
     "name": "Cioos Pacific CKAN",
@@ -215,11 +217,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/data.cioospacific.ca.ico",
     "slug": "cioos-pacific-erddap",
     "status": "up",
-    "uptime": "99.37%",
+    "uptime": "99.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.37%",
+    "uptimeYear": "99.38%",
     "time": 877,
     "timeDay": 184,
     "timeWeek": 217,
