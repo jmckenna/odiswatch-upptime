@@ -201,10 +201,10 @@
     "url": "https://catalogue.cioospacific.ca",
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.cioospacific.ca.ico",
     "slug": "cioos-pacific-ckan",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.21%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "98.20%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "99.92%",
     "time": 523,
@@ -213,6 +213,7 @@
     "timeMonth": 516,
     "timeYear": 523,
     "dailyMinutesDown": {
+      "2022-10-25": 0,
       "2022-10-20": 181,
       "2022-06-22": 52,
       "2022-05-17": 29
