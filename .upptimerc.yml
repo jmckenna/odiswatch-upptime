@@ -16,6 +16,12 @@ sites:
     assignees: # Users to assign downtime issues (optional)
       - fostermh
 
+  - name: Cioos National CKAN Sitemap
+    url: https://catalogue.cioos.ca/sitemap/sitemap-1.xml
+    maxResponseTime: 5000 # 5 seconds
+    assignees: # Users to assign downtime issues (optional)
+      - fostermh
+
   - name: Cioos Atlantic Wordpress
     url: https://cioosatlantic.ca/
     maxResponseTime: 5000 # 5 seconds
@@ -24,6 +30,12 @@ sites:
 
   - name: Cioos Atlantic CKAN
     url: https://catalogue.cioosatlantic.ca/
+    maxResponseTime: 5000 # 5 seconds
+    assignees: # Users to assign downtime issues (optional)
+      - fostermh
+
+  - name: Cioos Atlantic CKAN Sitemap
+    url: https://catalogue.cioosatlantic.ca/sitemap/sitemap-1.xml
     maxResponseTime: 5000 # 5 seconds
     assignees: # Users to assign downtime issues (optional)
       - fostermh
@@ -46,6 +58,12 @@ sites:
     assignees: # Users to assign downtime issues (optional)
       - fostermh
 
+  - name: St. Lawrence Global Observatory CKAN Sitemap
+    url: https://catalogue.ogsl.ca/sitemap/sitemap-1.xml
+    maxResponseTime: 5000 # 5 seconds
+    assignees: # Users to assign downtime issues (optional)
+      - fostermh
+
   - name: Cioos Pacific Wordpress
     url: https://cioospacific.ca
     maxResponseTime: 5000 # 5 seconds
@@ -58,13 +76,19 @@ sites:
     assignees: # Users to assign downtime issues (optional)
       - fostermh
 
+  - name: Cioos Pacific CKAN Sitemap
+    url: https://catalogue.cioospacific.ca/sitemap/sitemap-1.xml
+    maxResponseTime: 5000 # 5 seconds
+    assignees: # Users to assign downtime issues (optional)
+      - fostermh
+
   - name: Cioos Pacific ERDDAP
     url: https://data.cioospacific.ca/erddap/index.html
     maxResponseTime: 5000 # 5 seconds
     assignees: # Users to assign downtime issues (optional)
       - fostermh
       - n-a-t-e
-      
+
   - name: Hakai ERDDAP
     url: https://catalogue.hakai.org/erddap/index.html
     maxResponseTime: 5000 # 5 seconds
@@ -77,7 +101,7 @@ sites:
     maxResponseTime: 5000 # 5 seconds
     assignees:
       - sjbruce
-      
+
   - name: CIOOS Pacific Dev CKAN
     url: https://catalogue.pac-dev1.cioos.org/
     maxResponseTime: 5000 # 5 seconds
