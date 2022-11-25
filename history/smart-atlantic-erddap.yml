@@ -1,7 +1,7 @@
 url: https://www.smartatlantic.ca/erddap/index.html
-status: up
-code: 200
-responseTime: 368
-lastUpdated: 2022-11-24T23:05:49.190Z
+status: down
+code: 503
+responseTime: 1721
+lastUpdated: 2022-11-25T18:21:48.348Z
 startTime: Thu Jun 23 2022 20:23:35 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
