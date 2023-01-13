@@ -122,13 +122,13 @@ sites:
     assignees: # Users to assign downtime issues (optional)
       - n-a-t-e
       
-  - name: Realtime dataset DFO_MEDS_BUOYS
+  - name: CIOOS Pacific ERDDAP dataset DFO_MEDS_BUOYS
     url: https://data.cioospacific.ca/erddap/tabledap/DFO_MEDS_BUOYS.htmlTable?time&time>=now-3hours
     maxResponseTime: 3600 # 1 hr
     assignees: # Users to assign downtime issues (optional)
       - n-a-t-e
       
-  - name: Realtime dataset ECCC_MSC_BUOYS
+  - name: CIOOS Pacific ERDDAP dataset ECCC_MSC_BUOYS
     url: https://data.cioospacific.ca/erddap/tabledap/ECCC_MSC_BUOYS.htmlTable?time&time>=now-3hours
     maxResponseTime: 3600 # 1 hr
     assignees: # Users to assign downtime issues (optional)
