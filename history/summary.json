@@ -471,18 +471,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/data.cioospacific.ca.ico",
     "slug": "cioos-pacific-erddap-dataset-dfo-meds-buoys",
     "status": "down",
-    "uptime": "29.26%",
-    "uptimeDay": "29.26%",
-    "uptimeWeek": "29.26%",
-    "uptimeMonth": "29.26%",
-    "uptimeYear": "29.26%",
+    "uptime": "17.01%",
+    "uptimeDay": "17.01%",
+    "uptimeWeek": "17.01%",
+    "uptimeMonth": "17.01%",
+    "uptimeYear": "17.01%",
     "time": 2858,
     "timeDay": 2858,
     "timeWeek": 2858,
     "timeMonth": 2858,
     "timeYear": 2858,
     "dailyMinutesDown": {
-      "2023-01-13": 0
+      "2023-01-13": 1
     }
   },
   {
