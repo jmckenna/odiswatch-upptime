@@ -123,14 +123,14 @@ sites:
       - n-a-t-e
       
   - name: CIOOS Pacific ERDDAP dataset DFO_MEDS_BUOYS
-    url: https://data.cioospacific.ca/erddap/tabledap/DFO_MEDS_BUOYS.htmlTable?time&time>=now-3hours
-    maxResponseTime: 3600 # 1 hr
+    url: https://data.cioospacific.ca/erddap/tabledap/DFO_MEDS_BUOYS.htmlTable?STN_ID&time>=now-1week&distinct()
+    maxResponseTime: 10000 # 10 seconds
     assignees: # Users to assign downtime issues (optional)
       - n-a-t-e
       
   - name: CIOOS Pacific ERDDAP dataset ECCC_MSC_BUOYS
-    url: https://data.cioospacific.ca/erddap/tabledap/ECCC_MSC_BUOYS.htmlTable?time&time>=now-3hours
-    maxResponseTime: 3600 # 1 hr
+    url: https://data.cioospacific.ca/erddap/tabledap/ECCC_MSC_BUOYS.htmlTable?wmo_synop_id&time>now-3hours&distinct()
+    maxResponseTime: 10000 # 10 seconds
     assignees: # Users to assign downtime issues (optional)
       - n-a-t-e
 
