@@ -1,7 +1,7 @@
 url: https://data.cioospacific.ca/erddap/tabledap/DFO_MEDS_BUOYS.htmlTable?time&time>=now-3hours
-status: down
+status: degraded
 code: 404
-responseTime: 2936
-lastUpdated: 2023-01-16T12:02:22.597Z
+responseTime: 10873
+lastUpdated: 2023-01-16T13:15:31.293Z
 startTime: Fri Jan 13 2023 23:30:27 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
